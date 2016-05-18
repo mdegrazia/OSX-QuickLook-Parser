@@ -10,3 +10,9 @@ Usage:
 
 quicklook.py -f index.sqlite >> output.tsv
 
+Blog post:
+ 
+http://az4n6.blogspot.com/2016/05/quicklook-python-parser-all-your-blobs.html
+
+ 
+
