@@ -6,9 +6,11 @@ While an SQL query works for most of the data, there is a "version" field that c
 
 This will also carve out the thumbnails in the thumbnails.data file.
 
-Required libraries for the python script: 
+Required libraries for the python script:
+
 biplist - which can be installed using sudo easy_install biplist
 Pillow - which can be installed using pip
+
 
 Optional library for excel output- xlsxwriter which can be installed using easy_install
 
